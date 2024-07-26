@@ -1,8 +1,9 @@
-function toCase(text) {
-  // write your code here
+function toCase(text) {//Jayesh
+	cont upperCaseText=text.toUpperCase();
+	return upperCaseText;
 }
 
 // DO not change the code below
 
-const text = prompt("Enter text:");
+const text = prompt("Enter text:");//"Jayesh"
 alert(toCase(text));

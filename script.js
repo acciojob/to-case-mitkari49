@@ -1,6 +1,6 @@
 function toCase(text) {//Jayesh
 	const upperCaseText=text.toUpperCase();
-	return upperCaseText;
+	return text+"-"+upperCaseText;
 }
 
 // DO not change the code below

@@ -1,5 +1,5 @@
 function toCase(text) {//Jayesh
-	cont upperCaseText=text.toUpperCase();
+	const upperCaseText=text.toUpperCase();
 	return upperCaseText;
 }
 
